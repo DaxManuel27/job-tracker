@@ -1,1 +1,1 @@
-# job-tracker
+# Job Tracker AI Application
